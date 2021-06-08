@@ -4,6 +4,7 @@
 .metals
 *target
 .vscode
+.bsp
 project/project
 project/target
 project/metals.sbt
